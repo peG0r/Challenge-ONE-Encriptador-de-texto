@@ -141,6 +141,7 @@ section.display-mensaje {
     .btn-encriptar, .btn-desencriptar {
         width: 100%;
         margin-top: 2vh;
+        font-size: 0.875rem;
     }
     
     .btn-copiar {
